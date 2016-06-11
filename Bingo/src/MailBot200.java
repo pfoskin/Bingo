@@ -4,5 +4,6 @@ public class MailBot200 {
 	public static void main(String[] args){
 		System.out.println("a change");
 		System.out.println("a change");
+		System.out.println("a change");
 	}
 }
